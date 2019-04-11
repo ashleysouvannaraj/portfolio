@@ -5,7 +5,7 @@ class Header extends Component {
     render() {
         return (
             <div>
-            <nav class="navbar hero is-primary is-bold has-text-centered">
+            <nav class="navbar has-fixed-top hero is-primary is-bold has-text-centered">
             <div class="hero-body">
               <p class="title">
                 Ashley Souvannaraj
