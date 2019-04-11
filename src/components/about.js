@@ -10,7 +10,7 @@ class About extends Component {
                     <div class="columns">
                         <div class="column is-one-quarter">
                             <figure class="image is-128x128">
-                                <img class="is-rounded" src= {face} />
+                                <img class="is-rounded" src= {face} alt="myface"/>
                             </figure>
                         </div>
                         <div class="column has-text-weight-light has-text-justified">
