@@ -12,7 +12,7 @@ class Projects extends Component {
                 <div class="column is-4">
                     <div class="card">
                         <div class="card-image">
-                                <video autoplay="" loop="" muted="">
+                                <video controls loop="" muted="">
                                         <source media="(min-width: 640px)" src={catnannyvid} />
                                 </video>
                         </div>
@@ -33,7 +33,7 @@ class Projects extends Component {
                 <div class="column">
                     <div class="card">
                         <div class="card-image">
-                                <video autoplay="" loop="" muted="">
+                                <video controls loop="" muted="">
                                         <source media="(min-width: 640px)" src={drinkup} />
                                 </video>
                         </div>
@@ -53,7 +53,7 @@ class Projects extends Component {
                 <div class="column">
                     <div class="card">
                         <div class="card-image">
-                            <video autoplay="" loop="" muted="">
+                            <video controls loop="" muted="">
                                     <source media="(min-width: 640px)" src={gitwise} />
                             </video>
                         </div>
