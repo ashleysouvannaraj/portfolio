@@ -15,9 +15,10 @@ class Skills extends Component {
                 <i class="devicon-react-original-wordmark"></i>&nbsp; 
                 <i class="devicon-express-original-wordmark"></i>&nbsp; 
                 <i class="devicon-postgresql-plain-wordmark"></i>&nbsp; 
+                <i class="devicon-vuejs-plain-wordmark"></i>&nbsp;
                 <i class="devicon-github-plain-wordmark"></i>&nbsp; 
                 <i class="devicon-javascript-plain"></i>&nbsp; 
-                <i class="devicon-nodejs-plain"></i>&nbsp; 
+                <i class="devicon-nodejs-plain-wordmark"></i>&nbsp;
                 <i class="devicon-photoshop-plain"></i>&nbsp; 
                 <i class="devicon-illustrator-line"></i>&nbsp; 
                 <i class="devicon-visualstudio-plain-wordmark"></i>&nbsp; 
