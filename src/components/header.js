@@ -1,5 +1,5 @@
 import React,{ Component } from 'react';
-import resume from './images/Resume .PDF'
+import resume from './images/AshleySouvannaraj_Resume.PDF'
 
 class Header extends Component {
     render() {
