@@ -5,6 +5,7 @@ import About from './components/about';
 import Projects from './components/projects';
 import Contact from './components/contact';
 import './App.css';
+import Graphic from './components/graphic';
 
 class App extends Component {
   render() {
@@ -15,6 +16,8 @@ class App extends Component {
         <About />
         <hr />
         <Projects />
+        <hr />
+        <Graphic />
         <hr />
         <Skills />
         <hr />
