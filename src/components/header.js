@@ -8,7 +8,7 @@ class Header extends Component {
             <nav class="navbar has-fixed-top hero is-primary is-bold has-text-centered">
             <div class="hero-body">
               <p class="title">
-                Ashley Souvannaraj
+                ASHLEY SOUVANNARAJ
               </p>
               <p class="subtitle">
                 FULL-STACK DEVELOPER
