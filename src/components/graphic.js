@@ -2,7 +2,6 @@ import React,{Component} from 'react';
 import menu from './images/P&P MENU.png'
 import frontbc from './images/businesscardfront.png'
 import backbc from './images/businesscardback.png'
-import './graphic.css';
 
 class Graphic extends Component {
 
