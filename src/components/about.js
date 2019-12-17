@@ -4,7 +4,7 @@ import face from './images/IMG_0580.png'
 class About extends Component {
     render() {
         return (
-            <div id="about" class="">
+            <div id="about" class="notification has-background-white">
                 <div class="is-centered">
                 <div class="container is-centered">
                     <div class="columns">
