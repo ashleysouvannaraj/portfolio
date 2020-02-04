@@ -17,7 +17,6 @@ class Header extends Component {
             <div class="tabs is-centered is-medium">
                 <ul>
                   <li class="is-active"><a href="#projects">Projects</a></li>
-                  <li><a href="#graphic">Graphic Design</a></li>
                   <li><a href="#skills">Skills</a></li>
                   <li><a href="#contact">Contact</a></li>
                   <li><a href={resume}>Resume</a></li>
